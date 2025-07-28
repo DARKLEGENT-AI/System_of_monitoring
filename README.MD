@@ -6,8 +6,6 @@
 ![Скриншот интерфейса SYSTEM MONITOR](assets/image.png)
 
 ---
-## https://system-monitor.netlify.app/
----
 
 ## 🔍 Описание
 
