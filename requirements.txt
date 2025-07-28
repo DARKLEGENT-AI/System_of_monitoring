@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+aiosqlite
+psutil
+requests
+pydantic
+bcrypt
+pymysql
+pymongo

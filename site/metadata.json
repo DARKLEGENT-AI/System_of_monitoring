@@ -1,0 +1,6 @@
+{
+  "name": "Copy of System Monitor Dashboard",
+  "description": "A web application that displays system status for users or an admin dashboard for managing PCs, based on user role after authentication.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
